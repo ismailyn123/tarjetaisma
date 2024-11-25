@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(218, 133, 144);
+    justify-content: center;
+   }
+   .padre{
+    color: white;
+    display: flex;
+    align-items: end;
+    gap: 80px;
+   }
+
+   .hijod{
+    width: 25%;
+    height: 450px;
+    background-color: rgb(236, 234, 234);
+    border-radius:20px;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
